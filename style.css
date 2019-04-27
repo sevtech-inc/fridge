@@ -33,6 +33,7 @@ CSS INDEX
 23. Form-Stype
 -----------------------------------------------------------------------------------*/
 
+
 /*-----------------
 1. Google font
 ------------------*/
@@ -115,6 +116,7 @@ input:-webkit-autofill:focus {
     -webkit-box-shadow: 0 0 0px 1000px white inset !important;
 }
 
+
 /*-- 3. Button-Style --*/
 
 .bttn-white {
@@ -123,7 +125,7 @@ input:-webkit-autofill:focus {
     background: -webkit-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     overflow: hidden;
     z-index: 1;
     margin-right: 10px;
@@ -136,8 +138,6 @@ input:-webkit-autofill:focus {
     margin-top: -5px;
     display: inline-block;
 }
-
-
 
 .bttn-white:before {
     content: "";
@@ -186,7 +186,6 @@ input:-webkit-autofill:focus {
     margin-right: 10px;
 }
 
-
 .bttn-default {
     padding: 12px 40px;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bf360c+0,6ac6f0+100 */
@@ -198,7 +197,7 @@ input:-webkit-autofill:focus {
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     color: #ffffff;
     -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.1);
@@ -258,7 +257,7 @@ input:-webkit-autofill:focus {
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     opacity: 0.8;
     /* IE6-9 fallback on horizontal gradient */
     z-index: -2;
@@ -294,6 +293,7 @@ input:-webkit-autofill:focus {
     background-color: #fcf7f2;
 }
 
+
 /*-- 5. MainMenu-Area --*/
 
 .mainmenu-area {
@@ -320,7 +320,7 @@ input:-webkit-autofill:focus {
     background: -webkit-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     z-index: -1;
     opacity: 0;
     -webkit-transition: 0.3s;
@@ -396,6 +396,7 @@ input:-webkit-autofill:focus {
     height: 40px;
 }
 
+
 /*-- 6. Page-Title --*/
 
 .logo {
@@ -424,6 +425,7 @@ input:-webkit-autofill:focus {
     transform: translateY(-4px);
 }
 
+
 /*-- 7. Home-Area --*/
 
 .home-area {
@@ -439,6 +441,7 @@ input:-webkit-autofill:focus {
     margin-left: 0;
     margin-bottom: -158px;
 }
+
 
 /*-- 8. Progress-Area --*/
 
@@ -456,6 +459,7 @@ input:-webkit-autofill:focus {
     margin-bottom: -153px;
 }
 
+
 /*-- 9. Video-Area --*/
 
 .video-area {
@@ -472,7 +476,7 @@ input:-webkit-autofill:focus {
     overflow: hidden;
 }
 
-.video-photo > img {
+.video-photo>img {
     width: 100%;
 }
 
@@ -485,6 +489,7 @@ input:-webkit-autofill:focus {
     transform: translate(-50%, -50%);
     border-radius: 50%;
 }
+
 
 /*-- 10. Feature-Area --*/
 
@@ -506,6 +511,7 @@ input:-webkit-autofill:focus {
     margin-bottom: -142px;
 }
 
+
 /*-- 11. Service-Box --*/
 
 .service-box {
@@ -513,7 +519,7 @@ input:-webkit-autofill:focus {
     padding-left: 100px;
 }
 
-.team-slide .owl-controls .owl-nav > div,
+.team-slide .owl-controls .owl-nav>div,
 .service-box .box-icon {
     position: absolute;
     left: 0;
@@ -533,7 +539,7 @@ input:-webkit-autofill:focus {
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     overflow: hidden;
     z-index: 1;
     color: #ff5722;
@@ -544,12 +550,12 @@ input:-webkit-autofill:focus {
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.2);
 }
 
-.team-slide .owl-controls .owl-nav > div:hover,
+.team-slide .owl-controls .owl-nav>div:hover,
 .service-box:hover .box-icon {
     color: #ffffff;
 }
 
-.team-slide .owl-controls .owl-nav > div:before,
+.team-slide .owl-controls .owl-nav>div:before,
 .service-box .box-icon:before {
     content: '';
     position: absolute;
@@ -565,7 +571,7 @@ input:-webkit-autofill:focus {
     opacity: 1;
 }
 
-.team-slide .owl-controls .owl-nav > div:hover:before,
+.team-slide .owl-controls .owl-nav>div:hover:before,
 .service-box:hover .box-icon:before {
     opacity: 0;
 }
@@ -573,6 +579,7 @@ input:-webkit-autofill:focus {
 .service-box h4 {
     margin-bottom: 10px;
 }
+
 
 /*-- 12. Testimonial-Area --*/
 
@@ -627,7 +634,7 @@ input:-webkit-autofill:focus {
     font-weight: 400;
 }
 
-.team-slide .owl-controls .owl-nav > div {
+.team-slide .owl-controls .owl-nav>div {
     position: absolute;
     top: 50%;
     left: auto;
@@ -637,10 +644,11 @@ input:-webkit-autofill:focus {
     transform: translateY(-50%)
 }
 
-.team-slide .owl-controls .owl-nav > div.owl-next {
+.team-slide .owl-controls .owl-nav>div.owl-next {
     right: auto;
     left: 100%;
 }
+
 
 /*-- 13. Gallery-Area --*/
 
@@ -654,14 +662,13 @@ input:-webkit-autofill:focus {
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
     color: #ffffff;
 }
 
 .gallery-slide .owl-stage-outer {
     background: url('images/mobile-screen.png') no-repeat center right / auto 100%;
-
 }
 
 .gallery-slide .item {
@@ -676,7 +683,7 @@ input:-webkit-autofill:focus {
     padding-right: 80px;
 }
 
-.gallery-slide .owl-controls .owl-nav > div {
+.gallery-slide .owl-controls .owl-nav>div {
     display: inline-block;
     background-color: #ffffff;
     width: 70px;
@@ -716,6 +723,7 @@ input:-webkit-autofill:focus {
     transform: scale(2);
 }
 
+
 /*-- 14. Download-Area --*/
 
 .download-area {
@@ -732,6 +740,7 @@ input:-webkit-autofill:focus {
     margin-top: -106px;
     margin-bottom: -200px;
 }
+
 
 /*-- 15. Price-Area --*/
 
@@ -765,7 +774,7 @@ input:-webkit-autofill:focus {
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     position: relative;
     overflow: hidden;
     z-index: 2;
@@ -796,7 +805,6 @@ input:-webkit-autofill:focus {
 .price-box:hover .price-header:before {
     opacity: 0;
 }
-
 
 .price-box .price-header .price-icon {
     font-size: 60px;
@@ -849,6 +857,7 @@ input:-webkit-autofill:focus {
     left: 2px;
     top: 2px;
 }
+
 
 /*-- 16. Questions-area --*/
 
@@ -905,6 +914,7 @@ input:-webkit-autofill:focus {
     border-left: 5px solid #ff5722;
 }
 
+
 /*-- 17. Subscribe-Form --*/
 
 .subscribe-area {
@@ -936,11 +946,11 @@ input:-webkit-autofill:focus {
     margin-right: 0;
 }
 
+
 /*-- 18. Footer-Area --*/
 
 .footer-box {
     text-align: center;
-
 }
 
 .footer-box .box-icon {
@@ -960,7 +970,7 @@ input:-webkit-autofill:focus {
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     border-radius: 100%;
     position: relative;
     z-index: 1;
@@ -1018,6 +1028,7 @@ input:-webkit-autofill:focus {
     color: #ff5722;
 }
 
+
 /*-- 19. ScrollUp-Button --*/
 
 #scrollUp {
@@ -1046,7 +1057,7 @@ input:-webkit-autofill:focus {
     background: -webkit-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     border-radius: 100%;
     height: 60px;
     width: 60px;
@@ -1110,6 +1121,7 @@ input:-webkit-autofill:focus {
     }
 }
 
+
 /*-- 20. Blog-Post --*/
 
 .site-header {
@@ -1117,7 +1129,7 @@ input:-webkit-autofill:focus {
     background: -webkit-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     color: #ffffff;
     padding: 180px 0 120px;
 }
@@ -1132,7 +1144,6 @@ input:-webkit-autofill:focus {
     margin-top: 10px;
     padding: 0;
 }
-
 
 .post-single:after {
     content: "";
@@ -1210,6 +1221,7 @@ input:-webkit-autofill:focus {
     margin-left: 5px;
 }
 
+
 /*-- 21. Pagination --*/
 
 .pagination .nav-links {
@@ -1236,7 +1248,6 @@ input:-webkit-autofill:focus {
 .pagination .nav-links .page-numbers:hover {
     color: #bf360c;
     background-color: #fcf7f2;
-
 }
 
 .pagination .nav-links .page-numbers.current {
@@ -1244,7 +1255,7 @@ input:-webkit-autofill:focus {
     background: -webkit-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: -o-linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
     background: linear-gradient(45deg, #bf360c 0%, #ff6d00 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bf360c', endColorstr='#ff6d00', GradientType=1);
     color: #ffffff;
 }
 
@@ -1261,6 +1272,7 @@ input:-webkit-autofill:focus {
     border: 30px solid #ffffff;
     font-style: italic;
 }
+
 
 /*-- 22. Comment-Respond --*/
 
@@ -1310,6 +1322,7 @@ input:-webkit-autofill:focus {
 .comments-list li {
     margin-bottom: 30px;
 }
+
 
 /*-- 23. Form-Stype --*/
 
